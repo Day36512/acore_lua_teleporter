@@ -1,3 +1,5 @@
+--This script takes elements from Clottic, Rochett and other people's scripts. I just improved upon it. 
+
 --[==[
     = How to add new locations =
 
@@ -44,6 +46,8 @@ local T = {
 	[3] = { "|TInterface\\icons\\achievement_bg_winwsg:37:37:-23|t|cffC41F3BPvP Locations|r", 2,
 		{"Gurubashi Arena", 0, -13229, 226, 33, 1},
 		{"Dire Maul Arena", 1, -3669, 1094, 160, 3},
+		{"Nagrand Arena", 530, -1983, 6562, 12, 2},
+		{"Blade's Edge Arena", 530, 2910, 5976, 2, 4},
 	},
 	[4] = {"|TInterface\\icons\\achievement_zone_elwynnforest:37:37:-23|t|cff0101DFAlliance Starter Areas|r", 0,
 		{"Northshire Valley", 0, -8921.09, -119.13, 82.2, 6},
