@@ -1,4 +1,4 @@
---This script takes elements from Clottic, Rochett and other people's scripts. I just improved upon it. 
+--This script takes elements from Clottic, Rochet and other people's scripts. I just improved upon it. 
 
 --[==[
     = How to add new locations =
